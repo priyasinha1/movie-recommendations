@@ -88,8 +88,6 @@ def recommender(movie_name, data, model, n_recommendations):
 recommender('Jurassic Park', mat_movies_user, model_knn, 20)
 
 
-# In[ ]:
-
 
 
 
