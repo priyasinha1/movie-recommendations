@@ -1,2 +1,2 @@
 # movie-recommendations
-Recommends movies on the basis of similar rating use K-Nearest Neighbors. 
+Recommends movies on the basis of similar rating use K-Nearest Neighbors 
